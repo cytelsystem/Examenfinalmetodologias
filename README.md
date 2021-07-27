@@ -1,7 +1,3 @@
-https://cytelsystem.github.io/Pizza-front/
+https://cytelsystem.github.io/Examenfinalmetodologias/
 
-# Pizza&Front
-
-## lenguaje HTML
-
-### Clase de Front-End
+# Metodologias de Trabajo
