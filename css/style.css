@@ -51,3 +51,8 @@ fieldset {
 .divcontenedor ul li a {
   font-size: 25px;
 }
+
+.diagramas {
+  color: red;
+  margin-left: 15px;
+}
